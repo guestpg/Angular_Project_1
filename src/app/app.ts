@@ -15,5 +15,5 @@ import {RouterOutlet} from '@angular/router';
   styleUrl: './app.css',
 })
 export class App {
-  protected title = 'myapp';
+  protected title = 'yapp';
 }
